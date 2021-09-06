@@ -1,0 +1,14 @@
+D:\Project\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+D:\Project\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+D:\Project\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+D:\Project\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+D:\Project\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+D:\Project\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.AssemblyReference.cache
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+D:\Project\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
